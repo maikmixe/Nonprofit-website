@@ -1,0 +1,1 @@
+includes things like footer and header
